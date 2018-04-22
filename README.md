@@ -1,3 +1,7 @@
+**This fork was merged with the main IO2D repo: https://github.com/ISOCPP-2D/P0267_RefImpl**  
+**(at the moment the "new_structure" branch is being used).**  
+**Further works are being done in the P0267_RefImpl repo, not in this one.**  
+
 Heavily modified P0267 Reference Implementation
 =============
 
